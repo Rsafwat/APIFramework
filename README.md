@@ -66,8 +66,10 @@ Execute the tests using Maven:
 
 ```bash
 mvn test
+```
 ## Generating Reports
 The framework uses the Cucumber Report plugin to generate reports. Run the following command to generate reports:
 
 ```bash
 mvn  verify
+```
